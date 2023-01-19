@@ -1,4 +1,5 @@
-### Hi there 👋
+### <h3> Olá, Seja Bem Vindo! 👋 
+Me chamo Igor Manoel, formado como Bacharel em Administração e Tecnólogo em Logística, atualmente estou em processo de transição de carreira para a área de Desenvolvimento de Sistemas. Estou buscando experiencia para ingressar na área, hoje estou estudando HTML e CSS. 
 
 <!--
 **igormanoels/igormanoels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
