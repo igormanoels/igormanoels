@@ -1,6 +1,8 @@
 ### <h3> Olá, Seja Bem Vindo! 👋 
 Me chamo Igor Manoel, formado como Bacharel em Administração e Tecnólogo em Logística, atualmente estou em processo de transição de carreira para a área de Desenvolvimento de Sistemas. Estou buscando experiencia para ingressar na área, hoje estou estudando HTML e CSS. 
 
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-manoel-de-santana-43ba2086/)](https://www.linkedin.com/in/igor-manoel-de-santana-43ba2086/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s.igormanoel@gmail.com)](mailto:s.igormanoel@gmail.com)
+  
 <!--
 **igormanoels/igormanoels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
