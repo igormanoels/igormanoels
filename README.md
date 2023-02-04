@@ -6,6 +6,8 @@
   <a href="mailto:s.igormanoel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-manoel-de-santana-43ba2086/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/s.igormanoel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a  href="https://codepen.io/igormanoels"  alt="Codepen">
+<img  src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"  /></a>
 </div> <br>
   <br>
   <br>
@@ -32,8 +34,7 @@ YOUTUBE       <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q"
 TWITCH        <a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 DISCORD       <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
-CODEPEN       <a  href="https://codepen.io/lisandraferraz/collections/public"  alt="Linkedin">
-<img  src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"  /></a>
+CODEPEN       
  
                    
 
