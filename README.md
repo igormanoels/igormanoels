@@ -1,6 +1,6 @@
 ## Olá, Seja Bem Vindo! 👋
   
-Me chamo _Igor Manoel_, sou formado como Bacharel em Administração e Tecnólogo em Logística, atualmente estou em processo de transição de carreira para a área de **Desenvolvimento de Sistemas**. Estou buscando experiencia para ingressar na área, hoje estou estudando a tarde na **Fatec Zona Leste**, no curso de **Análise e Desenvolvimento de Sistemas**.
+Me chamo _Igor Manoel_, sou formado como Bacharel em Administração e Tecnólogo em Logística, atualmente estou em processo de transição de carreira para a área de **Desenvolvimento de Sistemas**. Estou buscando experiencia para ingressar na área, e hoje estou estudando a tarde na **Fatec Zona Leste**, no curso de **Análise e Desenvolvimento de Sistemas**.
   
 <div> 
   <a href="mailto:s.igormanoel@gmail.com">
